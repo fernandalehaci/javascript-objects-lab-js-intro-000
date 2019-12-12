@@ -1,6 +1,6 @@
 var songs={dua:"dontStart"}
 function updateObjectWithKeyAndValue(object, key, value){
-  
+
 }
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
 

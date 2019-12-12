@@ -1,3 +1,4 @@
+var songs={dua:"dontStart"}
 function updateObjectWithKeyAndValue(object, key, value){
   
 }
